@@ -5,7 +5,7 @@
 	"type": "Feature",
 	"properties": {},
 	"geometry": {
-	"type": "Point",
+	"type": "MultiPoint",
 	"coordinates": [
 [-41.5396,174.1242,1.7345],
 [-38.8725,175.9561,2.6901],
