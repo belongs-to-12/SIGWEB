@@ -11,6 +11,18 @@
       "type": "Point",
       "coordinates": [110.37622481021805, -7.7941075679279015]
       }
+  }, 
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Danurejan II",
+      "popupContent" : "<b>Puskesmas Danurejan II </b></br><hr> Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37933617274636, -7.788239920981649]
+      }
   }
 ]
 }
