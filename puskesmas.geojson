@@ -5,7 +5,7 @@
   "type": "Feature",
   "properties": {
       "name" : "Puskesmas Danurejan I",
-      "popupContent" : "Puskesmas Danurejan I </br> Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      "popupContent" : "<b>Puskesmas Danurejan I </b></br><hr> Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
         },
   "geometry": {
       "type": "Point",
