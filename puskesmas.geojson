@@ -73,6 +73,78 @@
       "type": "Point",
       "coordinates": [110.37181838901962, -7.803720851583796]
       }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Jetis",
+      "popupContent" : "<b>Puskesmas Jetis</b></br><hr>Jl. Pangeran Diponegoro No.91, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37012686476666, -7.779683149358841]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Jetis II",
+      "popupContent" : "<b>Puskesmas Jetis II</b></br><hr>Jl. Parangtritis No.KM.15, Sulang Kidul, Patalan, Kec. Jetis, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55781"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.34984169646366, -7.927933613622021]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Kotagede I",
+      "popupContent" : "<b>Puskesmas Kotagede I</b></br><hr>Jl. Kemasan No.12, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.4047660477918, -7.820304592888689]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Kotagede II",
+      "popupContent" : "<b>Puskesmas Kotagede II</b></br><hr>Jl. Ki Penjawi No.4, Rejowinangun, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55172"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.40241133674576, -7.812033857636387]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Kraton",
+      "popupContent" : "<b>Puskesmas Kraton</b></br><hr>Jalan Musikanan KT II No.457, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37146507639555, -7.8050028778915435]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Gondomanan",
+      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37181838901962, -7.803720851583796]
+      }
   }
 
 ]
