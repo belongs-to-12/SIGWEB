@@ -23,6 +23,57 @@
       "type": "Point",
       "coordinates": [110.37933617274636, -7.788239920981649]
       }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Gedongtengen",
+      "popupContent" : "<b>Puskesmas Gedongtengen</b></br><hr> Jl. Pringgokusuman No.30, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55272"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.3579107767064, -7.79028167708086]
+      }
+  },
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Gondokusuman I",
+      "popupContent" : "<b>Puskesmas Gondokusuman I</b></br><hr> 694J+648, Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.3827872357774, -7.793387848492889]
+      }
+  },
+
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Gondokusuman II",
+      "popupContent" : "<b>Puskesmas Gondokusuman II</b></br><hr> Jl. DR. Sardjito No.22, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37278001304719, -7.778244595293176]
+      }
+  },
+
+
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Puskesmas Gondomanan",
+      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+        },
+  "geometry": {
+      "type": "Point",
+      "coordinates": [110.37181838901962, -7.803720851583796]
+      }
   }
+
 ]
 }
