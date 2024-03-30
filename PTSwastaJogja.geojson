@@ -207,7 +207,27 @@
         ]
         ]
       }
-  }
+  },
 
+{
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Cokroaminoto",
+      "popupContent" : "<b>Universitas Cokroaminoto</b></br><hr><b>Alamat: </b> Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+        [110.35774855254878, -7.783499146566479],
+        [110.35727699371523, -7.783350846518409],
+        [110.35722276877438, -7.783768008029388],
+        [110.35701543814936, -7.784589688572764],
+        [110.35749665914828, -7.784755389887809],
+        [110.35761090311387, -7.783971919614909]
+        ]
+      ]
+    }
+  }
 ]
 }
