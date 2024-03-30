@@ -44,6 +44,25 @@
         ]
         ]
       }
+  },
+ {
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Ahmad Dahlan",
+      "popupContent" : "<b>Universitas Ahmad Dahlan Kampus I</b></br><hr><b>Alamat: </b> Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+        [-7.799006669565638, 110.38337675084786],
+        [-7.798559139505209, 110.38342131158029]
+        [110.38248565398827, -7.798389401890515],
+        [110.38239474748698, -7.798789167321545]
+        ]
+       ] 
+      }
   }
+
 ]
 }
