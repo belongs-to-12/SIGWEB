@@ -245,6 +245,23 @@
         [110.37888255356015, -7.7848778404814425]
         ]
     }
+  },
+
+{
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Nadhatul Ulama",
+      "popupContent" : "<b>Universitas Nadhatul Ulama</b></br><hr><b>Alamat: </b>Jl. Lowanu No.47, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [110.37637778359431, -7.819550259345837],
+        [110.377154475993, -7.819204234553317],
+        [110.3773203404903, -7.819649800671559],
+        [110.37652450988055, -7.819965804722177]
+        ]
+    }
   }
 ]
 }
