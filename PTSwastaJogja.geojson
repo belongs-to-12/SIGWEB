@@ -262,6 +262,27 @@
         [110.37652450988055, -7.819965804722177]
         ]
     }
+  },
+
+{
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Sarjanawiyata Tamansiswa",
+      "popupContent" : "<b>Universitas Sarjanawiyata Tamansiswa</b></br><hr><b>Alamat: </b>Jl. Batikan, UH-III Jl. Tuntungan No.1043, Tahunan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55167"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [110.38174663874997, -7.808038462036914],
+        [110.38017349619555, -7.807961463439781],
+        [110.38010917691048, -7.808439385531492],
+        [110.38042809336558, -7.808479212347801],
+        [110.3804575730379, -7.808391593346925],
+        [110.3812492499206, -7.8087600403385355],
+        [110.38129206789012, -7.808938654716097],
+        [110.38194785889702, -7.808867208974233]
+        ]
+    }
   }
 ]
 }
