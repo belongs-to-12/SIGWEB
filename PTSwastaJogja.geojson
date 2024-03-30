@@ -212,8 +212,8 @@
 {
   "type": "Feature",
   "properties": {
-      "name" : "Universitas Cokroaminoto",
-      "popupContent" : "<b>Universitas Cokroaminoto</b></br><hr><b>Alamat: </b> Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      "name" : "Universitas Janabadra",
+      "popupContent" : "<b>Universitas Janabadra</b></br><hr><b>Alamat: </b>Jl. Tentara Rakyat Mataram No.55-57, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
         },
   "geometry": {
       "type": "Polygon",
@@ -225,6 +225,24 @@
         [110.35701543814936, -7.784589688572764],
         [110.35749665914828, -7.784755389887809],
         [110.35761090311387, -7.783971919614909]
+        ]
+      ]
+    }
+  },
+
+{
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Kristen Duta Wacana",
+      "popupContent" : "<b>Universitas Kristen Duta Wacana</b></br><hr><b>Alamat: </b>Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [110.37852276195947, -7.78727476785952],
+        [110.3779228096519, -7.787158565525696],
+        [110.37827905656997, -7.78482203321459],
+        [110.37888255356015, -7.7848778404814425]
         ]
       ]
     }
