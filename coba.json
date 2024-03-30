@@ -18,6 +18,49 @@
         ]
         ]
       }
+  },
+   {
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Aisyiyah Yogyakarta",
+      "popupContent" : "<b>Universitas Aisyiyah Yogyakarta</b></br><hr><b>Alamat: </b> Jl. Siliwangi No.63, Area Sawah, Nogotirto, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55292"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+        [110.33453340466045, -7.767950755337908],
+        [110.33425152021469, -7.768817133835379],
+        [110.33367684793484, -7.7686245157633325],
+        [110.33360767757769, -7.768761209046383],
+        [110.33245103020914, -7.76840822713761],
+        [110.33236809794306, -7.768076382002531],
+        [110.33190878084542, -7.767927841716745],
+        [110.3320267998136, -7.767535947944411],
+        [110.3324414610831, -7.767507504024806],
+        [110.33247335810154, -7.767248348247287],
+        [110.33452770697076, -7.76797747819794]
+        ]
+        ]
+      }
+  },
+ {
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Ahmad Dahlan",
+      "popupContent" : "<b>Universitas Ahmad Dahlan Kampus I</b></br><hr><b>Alamat: </b> Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+        [110.38337675084786, -7.799006669565638],
+        [110.38342131158029, -7.798559139505209],
+        [110.38248565398827, -7.798389401890515],
+        [110.38239474748698, -7.798789167321545]
+        ]
+       ] 
+      }
   }
 ]  
 }
