@@ -246,50 +246,49 @@
   {
   "type": "Feature",
   "properties": {
-      "name" : "Puskesmas Gondomanan",
-      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+      "name" : "Puskesmas Mlati I",
+      "popupContent" : "<b>Puskesmas Mlati I</b></br><hr>Jl. Wijaya Kusuma, Kutu Tegal, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284"
         },
   "geometry": {
       "type": "Point",
-      "coordinates": [110.37181838901962, -7.803720851583796]
+      "coordinates": [110.37039296186525, -7.752288784137758]
       }
   },
 
   {
   "type": "Feature",
   "properties": {
-      "name" : "Puskesmas Gondomanan",
-      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+      "name" : "Puskesmas Berbah",
+      "popupContent" : "<b>Puskesmas Berbah</b></br><hr>Jl. Sekarsuli - Berbah, Sribit, Sendangtirto, Kec. Berbah, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55573"
         },
   "geometry": {
       "type": "Point",
-      "coordinates": [110.37181838901962, -7.803720851583796]
+      "coordinates": [110.4388247743369, -7.8193015119454845]
       }
   },
 
   {
   "type": "Feature",
   "properties": {
-      "name" : "Puskesmas Gondomanan",
-      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+      "name" : "Puskesmas Depok III",
+      "popupContent" : "<b>Puskesmas Depok III</b></br><hr>Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
   "geometry": {
       "type": "Point",
-      "coordinates": [110.37181838901962, -7.803720851583796]
+      "coordinates": [110.3270560659488, -7.765036146990177]
       }
   },
 
   {
   "type": "Feature",
   "properties": {
-      "name" : "Puskesmas Gondomanan",
-      "popupContent" : "<b>Puskesmas Gondomanan</b></br><hr>Jalan Ledok No.9, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55121"
+      "name" : "Puskesmas Kasihan II",
+      "popupContent" : "<b>Puskesmas Kasihan II</b></br><hr>58CW+92J, Jl. Padokan, Rogocolo, Tirtonirmolo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55184"
         },
   "geometry": {
       "type": "Point",
-      "coordinates": [110.37181838901962, -7.803720851583796]
+      "coordinates": [110.35208159265733, -7.825800347302659]
       }
   }
-
 ]
 }
