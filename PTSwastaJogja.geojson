@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"features": [
+  {
+  "type": "Feature",
+  "properties": {
+      "name" : "Universitas Alma Ata",
+      "popupContent" : "<b>Universitas Alma Ata </b></br><hr> Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+  "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [110.32421721139022, -7.818183485512195],
+        [110.32547868538032, -7.818264018208412],
+        [110.32553889893259, -7.81875914479932],
+        [110.32418409400643, -7.818693525646348]
+      }
+  }, 
