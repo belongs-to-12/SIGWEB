@@ -201,26 +201,26 @@
       }
   },
 
-  {
-    "type": "Feature",
-    "properties": {
-        "name" : "Universitas Janabadra",
-        "popupContent" : "<b>Universitas Janabadra</b></br><hr><b>Alamat: </b>Jl. Tentara Rakyat Mataram No.55-57, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
-          },
-    "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-          [110.35774855254878, -7.783499146566479],
-          [110.35727699371523, -7.783350846518409],
-          [110.35722276877438, -7.783768008029388],
-          [110.35701543814936, -7.784589688572764],
-          [110.35749665914828, -7.784755389887809],
-          [110.35761090311387, -7.783971919614909]
+    {
+      "type": "Feature",
+      "properties": {
+          "name" : "Universitas Janabadra",
+          "popupContent" : "<b>Universitas Janabadra</b></br><hr><b>Alamat: </b>Jl. Tentara Rakyat Mataram No.55-57, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+            },
+      "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+            [110.35774855254878, -7.783499146566479],
+            [110.35727699371523, -7.783350846518409],
+            [110.35722276877438, -7.783768008029388],
+            [110.35701543814936, -7.784589688572764],
+            [110.35749665914828, -7.784755389887809],
+            [110.35761090311387, -7.783971919614909]
+            ]
           ]
-        ]
-      }
-      },
+        }
+        },
   
     {
       "type": "Feature",
