@@ -72,7 +72,7 @@
       "popupContent" : "<b>Universitas AMIKOM Yogyakarta</b></br><hr><b>Alamat: </b> Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
   "geometry": {
-      "type": "Polygon",
+      "type": "MultiPolygon",
       "coordinates": [
         [
         [110.40796343945344, -7.759118413374515],
@@ -101,7 +101,7 @@
       "popupContent" : "<b>Universitas Atma Jaya</b></br><hr><b>Alamat: </b> Jl. Mrican Baru No.28, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
         },
   "geometry": {
-      "type": "Polygon",
+      "type": "MultiPolygon",
       "coordinates": [
         [
         [110.41492207521885, -7.7788269079302115],
