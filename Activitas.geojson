@@ -14,6 +14,48 @@
           -7.595801135188305
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aktivitas": "Liburan",
+        "Lokasi": "Candi Cetho, Karanganyar, Jawa Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.15806928229686,
+          -7.595801135188305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aktivitas": "Liburan",
+        "Lokasi": "Candi Cetho, Karanganyar, Jawa Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.15806928229686,
+          -7.595801135188305
+        ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+        "Aktivitas": "Liburan",
+        "Lokasi": "Candi Cetho, Karanganyar, Jawa Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.15806928229686,
+          -7.595801135188305
+        ]
+      }
     }
   ]
 }
